@@ -39,6 +39,14 @@ Automates system package updates and security patches.
 - Applies security patches
 - Maintains update logs
 - Supports scheduled updates
+### 6. **network_monitor.sh**
+Monitors network connectivity and logs the status.
+
+- Checks network interface status
+- Verifies internet connectivity with retry logic
+- Tests DNS resolution
+- Provides detailed network statistics
+- Automated logging for troubleshooting
 
 ## Installation
 
@@ -70,6 +78,15 @@ Each script can be run independently:
 
 # Clean up logs
 ./maintenance-scripts/log_cleanup.sh
+
+# Generate resource report
+./maintenance-scripts/resource_report.sh
+
+# Update system
+./maintenance-scripts/system_update.sh
+
+# Monitor network connectivity
+./maintenance-scripts/network_monitor.sh
 
 # Generate resource report
 ./maintenance-scripts/resource_report.sh
