@@ -143,4 +143,9 @@ If you encounter any issues or have questions, please open an issue in the GitHu
 
 ---
 
+## Notes
+
+- All scripts are tested on Ubuntu 20.04 and later versions.
+- Run scripts with appropriate permissions.
+
 **Note:** Always test scripts in a non-production environment before deploying to production systems.
