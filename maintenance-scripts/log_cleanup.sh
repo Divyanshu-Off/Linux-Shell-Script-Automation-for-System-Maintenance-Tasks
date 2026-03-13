@@ -1,5 +1,6 @@
 #!/bin/bash
 # Deletes old log files and logs the action
+# Usage: sudo bash log_cleanup.sh
 
 LOG_FILE="/var/log/maintenance.log"
 TARGET_DIR="/var/log"
