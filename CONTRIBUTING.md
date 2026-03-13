@@ -217,3 +217,6 @@ All contributors will be recognized in the project documentation. Thank you for 
 ---
 
 **Note**: By contributing to this project, you agree that your contributions will be licensed under the MIT License.
+
+
+> Tip: Keep commit messages short and in the present tense (e.g., `Fix disk monitor threshold`).
