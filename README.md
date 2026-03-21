@@ -149,3 +149,4 @@ If you encounter any issues or have questions, please open an issue in the GitHu
 - Run scripts with appropriate permissions.
 
 **Note:** Always test scripts in a non-production environment before deploying to production systems.
+- Avoid running scripts as root unless explicitly required by the script.
