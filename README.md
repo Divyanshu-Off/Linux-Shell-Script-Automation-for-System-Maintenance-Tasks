@@ -152,3 +152,5 @@ If you encounter any issues or have questions, please open an issue in the GitHu
 - Avoid running scripts as root unless explicitly required by the script.
  - Ensure log retention policies align with your organization's compliance requirements.
 - Schedule maintenance scripts during off-peak hours to minimize system impact.
+
+- Compatible with most modern Linux distributions including Arch Linux.
